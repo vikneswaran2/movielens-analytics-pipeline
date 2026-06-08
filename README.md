@@ -25,6 +25,18 @@ GCS Bucket
 → Looker Studio Dashboard
 
 ---
+## Dataset Used
+--MovieLens 20M Dataset https://grouplens.org/datasets/movielens/20m/
+--Here are the file names and sizes from your screenshot:
+
+| Name | Size |
+| --- | --- |
+| genome-scores.csv | 323.5 MB |
+| genome-tags.csv | 18.1 KB |
+| links.csv | 570.1 KB |
+| movies.csv | 1.4 MB |
+| ratings.csv | 533.4 MB |
+| tags.csv | 16.6 MB |
 
 ## Technologies Used
 
